@@ -1,0 +1,13 @@
+node_modules/
+.next/
+vendor/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+.phpunit.result.cache
+/backend/storage/framework/cache/data/
+/backend/storage/framework/sessions/
+/backend/storage/framework/views/
+/backend/storage/logs/
