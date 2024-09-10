@@ -159,3 +159,5 @@ CREATE TABLE books (
 [MIT](LICENSE)
 
 <!-- [2024-09-10] feat: scaffold book search and collection manager structure -->
+
+<!-- [2024-09-10] feat: implement title and author search with debounce filter -->
