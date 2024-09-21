@@ -163,3 +163,5 @@ CREATE TABLE books (
 <!-- [2024-09-10] feat: implement title and author search with debounce filter -->
 
 <!-- [2024-09-21] feat: implement book reading status tags (reading, completed, want to read) -->
+
+<!-- [2024-09-21] style: refine book thumbnail gallery and dark-themed UI components -->
